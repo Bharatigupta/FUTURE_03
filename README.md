@@ -64,7 +64,7 @@ FUTURE_ML_03/
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FUTURE_ML_03.git
+git clone https://github.com/Bharatigupta/FUTURE_ML_03.git
 cd FUTURE_ML_03
 mkdir data model
 pip install -r requirements.txt
